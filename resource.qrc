@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/auditionnotice.jpg</file>
+        <file>image/play-icon.png</file>
+        <file>image/cancel-512.png</file>
+        <file>image/images.jpg</file>
+        <file>image/previous-512.png</file>
+        <file>image/emergency-exit-md.png</file>
+        <file>image/panel.png</file>
+        <file>image/dong.png</file>
+        <file>image/katsu.png</file>
+        <file>image/toilet-toilet-bowl_small.png</file>
+        <file>image/0.gif</file>
+        <file>image/6-150121211244327.png</file>
+        <file>image/144UcA200A0-26124.png</file>
+        <file>image/shinchan_koma.000028.jpg</file>
+        <file>image/006.jpg</file>
+        <file>image/18_jzlab.jpg</file>
+        <file>image/7658225_656869.jpg</file>
+        <file>image/4a330fb4d1f7d.jpg</file>
+        <file>image/415500.jpg</file>
+        <file>image/f3f3b3f2-555d-3eb1-e2a1-f2cb4d2b67f9.jpg</file>
+        <file>image/8345569094.jpg</file>
+        <file>image/5_141211115056_17.gif</file>
+        <file>image/2040285.png</file>
+        <file>image/go.png</file>
+        <file>image/play.png</file>
+        <file>image/exit.png</file>
+        <file>image/A.png</file>
+        <file>image/D.png</file>
+    </qresource>
+</RCC>

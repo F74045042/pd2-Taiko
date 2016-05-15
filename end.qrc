@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/_cnwav_mp3.wav</file>
+    </qresource>
+</RCC>
